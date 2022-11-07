@@ -1,6 +1,6 @@
 ### Hi there 👋
 **I'm Cheruiyot **
-- 🌱 I’m a fullstack software developer.
+- 🌱 I’m a software web developer.
 - 🔭 I’m currently working on different projects to help me grow more as a developer.
 - 💬 Ask me about absolutely anything that you need answers to.
 - 📫 You can reach me through: cherumoureen@gmail.com
